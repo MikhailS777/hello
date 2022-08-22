@@ -2,4 +2,5 @@
 new stroka
 
 hello, git!
+hello, git rebase!
 
