@@ -1,2 +1,5 @@
 новая строка
 new stroka
+
+hello, git!
+
